@@ -57,6 +57,23 @@ nav ul li a {
 nav .logo {
   float: left;
 }
+
+h1 {
+  padding: 12px;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+}
+h2 {
+  font-size: 25px;
+}
+h3 {
+  font-size: 18px;
+}
+p {
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
 #banner .inner {
   max-width: 300px;
   text-align: center;
@@ -68,6 +85,7 @@ nav .logo {
   margin: 0;
   color: #fff;
 }
+
 .hvr-main-buttun, .nav-buttun {
   display: inline-block;
   vertical-align: middle;
@@ -114,21 +132,7 @@ nav .logo {
   margin-top: 240px;
   color: #fff;
 }
-h1 {
-  padding: 12px;
-  border-top: 2px solid #fff;
-  border-bottom: 2px solid #fff;
-}
-h2 {
-  font-size: 25px;
-}
-h3 {
-  font-size: 18px;
-}
-p {
-  font-size: 14px;
-  letter-spacing: 1px;
-}
+
 .hr {
   width: 100%;
   height: 2px;
